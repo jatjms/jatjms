@@ -1,85 +1,72 @@
-<h1 align="center">Oi, sou o Jhonatan! 🎉</h1>
+# Olá, sou o Jhonatan! 👨‍💻🎉
 
-<p align="center">
-  Formado em Técnico em Informática e graduando em Ciências da Computação, estou em transição de carreira para o desenvolvimento de software, com foco no BackEnd. 🚀
-</p>
+Formado em **Técnico em Informática** e **graduando em Ciências da Computação**, estou fazendo a transição para o mundo do desenvolvimento de software com foco no **BackEnd**. 🚀 Estou aprendendo e me aprofundando em linguagens como **Java**, **C**, **C++**, **Ruby** e muito mais. Meu objetivo é aplicar o que aprendo para criar soluções escaláveis e robustas.
 
-<p align="center">
-  Atualmente estudando Java, C, C++, Ruby e aprimorando minhas habilidades em tecnologias de Linux (Fedora), Bash, Samba, Redes, e Suporte a Sistemas.
-</p>
+Atualmente, estou estudando:
+- **Java** ☕
+- **C** 💻
+- **C++** ⚙️
+- **Ruby** 💎
+- **Linux (Fedora)** 🐧
+- **Bash** 💻
+- **Samba** 🖧
+- **Redes** 🌐
+- **Suporte ao sistema** 🖥️
+- **Suporte ao cliente** 🤝
 
----
+## 🌱 O que estou aprendendo:
+Estou focado na transição para o desenvolvimento **BackEnd**, com ênfase na programação em linguagens como Java, C, Ruby, e aprendendo as melhores práticas para desenvolver aplicações seguras e eficientes. Também estou explorando o mundo do **FrontEnd**, focando nas tecnologias HTML, CSS e JavaScript, para entender os três pilares do desenvolvimento web.
 
-## 📚 Tecnologias que estou aprendendo
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="40" alt="fedora logo" />
-</div>
+## 🔗 Conecte-se comigo:
+[LinkedIn](https://www.linkedin.com/in/jhonatan-developer/) | [Instagram @jatsysti](https://www.instagram.com/jatsysti)
 
 ---
 
-## 📈 Meu GitHub Stats
+## 🛠️ Tecnologias que uso:
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jatjms&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jatjms&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
----
-
-## 📂 Meus Projetos
-
-### [EcoClico](https://github.com/jatjms/EcoClico)
-_Projeto simples criado como parte de um trabalho acadêmico. Utilizei um template pronto para personalizar um layout solicitado por minha cunhada, já que não tenho muita experiência com FrontEnd._
-
----
-
-### [Desafios de Lógica de Programação](https://github.com/jatjms/desafios-logica-de-programacao)
-_Foco na fundamentação de algoritmos e estruturas de dados. Aqui, treino lógica de programação através de exercícios e desafios, colocando em prática o que estou estudando em projetos fictícios._
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Samba](https://img.shields.io/badge/-Samba-CC2927?style=flat&logo=samba&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
 
 ---
 
-### [Portfólio](https://github.com/jatjms/projeto_portifolio)
-_Projeto de portfólio para aprimorar meus conhecimentos em FrontEnd, especialmente em HTML, CSS e JavaScript. O objetivo é criar uma base sólida antes de avançar para frameworks e bibliotecas voltadas ao FrontEnd._
+## 🚀 Projetos
+
+### 1. [EcoClico](https://github.com/jatjms/EcoClico)
+![EcoClico](https://img.shields.io/badge/-EcoClico-4CAF50?style=flat)
+Projeto simples de apresentação para a faculdade, onde trabalhei em ajustes de um layout/template para um site solicitado pela minha cunhada. O foco foi aplicar os conhecimentos adquiridos em HTML e CSS.
+
+### 2. [Desafios Lógica de Programação](https://github.com/jatjms/desafios-logica-de-programacao)
+![Desafios](https://img.shields.io/badge/-Desafios%20L%C3%B3gica%20de%20Programação-FFA500?style=flat)
+Repositório dedicado a desafios de lógica de programação e algoritmos. O objetivo é praticar os fundamentos da programação e aprimorar o raciocínio lógico, com base em exercícios e desafios do dia a dia.
+
+### 3. [Portfólio](https://github.com/jatjms/projeto_portifolio)
+![Portfólio](https://img.shields.io/badge/-Portf%C3%B3lio-00A8E8?style=flat)
+Neste repositório, estou criando meu portfólio pessoal, com foco no aprendizado de HTML, CSS e JavaScript. O objetivo é dominar os pilares do desenvolvimento FrontEnd e criar um portfólio simples e eficaz.
 
 ---
 
-## 📬 Vamos nos conectar?
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/jhonatan-developer/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
-  </a>
-  <a href="https://www.instagram.com/jatsysti" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo" />
-  </a>
-  <a href="mailto:jatsysti@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
-  </a>
-</div>
+## 🧠 Minhas metas:
+- Continuar o desenvolvimento de habilidades **BackEnd** com Java, C e Ruby.
+- Melhorar minha compreensão de **estruturas de dados** e **algoritmos**.
+- Expandir meu conhecimento em **frameworks de BackEnd**.
+- Criar projetos mais desafiadores para fortalecer minha experiência prática.
 
 ---
 
-## 🐍 Contribuições
-
-<img src="https://raw.githubusercontent.com/jatjms/jatjms/output/snake.svg" alt="Snake animation" />
-
----
-
-### Sobre Mim
-
-- 🧑‍💻 Busco me especializar no desenvolvimento BackEnd, criando soluções escaláveis e eficientes.
-- 🌱 Estou sempre aprendendo, com foco em Java, C, C++, Ruby e tecnologias de servidor.
-- 🏫 Formado em Técnico em Informática e graduando em Ciências da Computação, com forte interesse em práticas de desenvolvimento ágil e práticas de DevOps.
+## 🎨 Como eu contribuo:
+Sempre que posso, tento contribuir para projetos open source e compartilhar meu aprendizado com a comunidade. Se você quiser colaborar ou precisa de ajuda em algum projeto, fique à vontade para me chamar!
 
 ---
 
-<div align="center">
-  <img src="https://i.gifer.com/6M8G.gif" height="150" alt="animation"/>
-</div>
+## 💬 Fale comigo!
+Estou sempre disponível para discutir sobre programação, novas tecnologias e como podemos trabalhar juntos para construir soluções melhores!
+
+🚀 **Vamos construir o futuro juntos!** 🌍
