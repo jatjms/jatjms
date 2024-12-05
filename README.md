@@ -37,6 +37,24 @@ Estou focado na transição para o desenvolvimento **BackEnd**, com ênfase na p
 
 ---
 
+## 🎬 Animações de Programação:
+
+Aqui estão algumas animações legais relacionadas ao mundo da **programação** e **tecnologia** que representam bem minha jornada!
+
+### Programação em ação:
+![Programação GIF](https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif)
+
+### Linux em ação (Fedora!):
+![Linux GIF](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)
+
+### Bash Script:
+![Bash GIF](https://github.com/snipe/animated-gifs/blob/master/Coffee/coffee-break.gif)
+
+### Desenvolvimento BackEnd:
+![Backend GIF](https://github.com/snipe/animated-gifs/blob/master/excited-happy/Dr10Brilliant.gif)
+
+---
+
 ## 🚀 Projetos
 
 ### 1. [EcoClico](https://github.com/jatjms/EcoClico)
